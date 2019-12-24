@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="74a21765-d08d-4714-a245-26cd776abeb2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="333" />
+    <option name="y" value="148" />
+    <option name="width" value="824" />
+    <option name="height" value="752" />
+  </component>
+  <component name="ProjectId" id="1VNo5yaonmOhrx8pi7AL4bFfwjY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.sdk.path" value="$USER_HOME$/Android/Sdk" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../backend" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="$PROJECT_DIR$/node_modules/eslint" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/components/middle" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="serve" type="js.build_tools.npm" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="serve" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="74a21765-d08d-4714-a245-26cd776abeb2" name="Default Changelist" comment="" />
+      <created>1577044318901</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577044318901</updated>
+      <workItem from="1577044320449" duration="1019000" />
+      <workItem from="1577102743206" duration="75000" />
+      <workItem from="1577102843294" duration="914000" />
+      <workItem from="1577115179059" duration="5842000" />
+      <workItem from="1577176318713" duration="15135000" />
+      <workItem from="1577203874261" duration="396000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="211" y="121" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1577102954524">
+      <screen x="67" y="27" width="1373" height="873" />
+    </state>
+    <state x="211" y="121" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.1373.873@67.27.1373.873" timestamp="1577102954524" />
+    <state x="536" y="220" width="424" height="484" key="FileChooserDialogImpl" timestamp="1577203893873">
+      <screen x="67" y="27" width="1373" height="873" />
+    </state>
+    <state x="536" y="220" width="424" height="484" key="FileChooserDialogImpl/67.27.1373.873@67.27.1373.873" timestamp="1577203893873" />
+    <state width="1327" height="272" key="GridCell.Tab.0.bottom" timestamp="1577197948828">
+      <screen x="67" y="27" width="1373" height="873" />
+    </state>
+    <state width="1327" height="272" key="GridCell.Tab.0.bottom/67.27.1373.873@67.27.1373.873" timestamp="1577197948828" />
+    <state width="1327" height="272" key="GridCell.Tab.0.center" timestamp="1577197948827">
+      <screen x="67" y="27" width="1373" height="873" />
+    </state>
+    <state width="1327" height="272" key="GridCell.Tab.0.center/67.27.1373.873@67.27.1373.873" timestamp="1577197948827" />
+    <state width="1327" height="272" key="GridCell.Tab.0.left" timestamp="1577197948827">
+      <screen x="67" y="27" width="1373" height="873" />
+    </state>
+    <state width="1327" height="272" key="GridCell.Tab.0.left/67.27.1373.873@67.27.1373.873" timestamp="1577197948827" />
+    <state width="1327" height="272" key="GridCell.Tab.0.right" timestamp="1577197948827">
+      <screen x="67" y="27" width="1373" height="873" />
+    </state>
+    <state width="1327" height="272" key="GridCell.Tab.0.right/67.27.1373.873@67.27.1373.873" timestamp="1577197948827" />
+    <state width="1327" height="272" key="GridCell.Tab.1.bottom" timestamp="1577197948829">
+      <screen x="67" y="27" width="1373" height="873" />
+    </state>
+    <state width="1327" height="272" key="GridCell.Tab.1.bottom/67.27.1373.873@67.27.1373.873" timestamp="1577197948829" />
+    <state width="1327" height="272" key="GridCell.Tab.1.center" timestamp="1577197948829">
+      <screen x="67" y="27" width="1373" height="873" />
+    </state>
+    <state width="1327" height="272" key="GridCell.Tab.1.center/67.27.1373.873@67.27.1373.873" timestamp="1577197948829" />
+    <state width="1327" height="272" key="GridCell.Tab.1.left" timestamp="1577197948828">
+      <screen x="67" y="27" width="1373" height="873" />
+    </state>
+    <state width="1327" height="272" key="GridCell.Tab.1.left/67.27.1373.873@67.27.1373.873" timestamp="1577197948828" />
+    <state width="1327" height="272" key="GridCell.Tab.1.right" timestamp="1577197948829">
+      <screen x="67" y="27" width="1373" height="873" />
+    </state>
+    <state width="1327" height="272" key="GridCell.Tab.1.right/67.27.1373.873@67.27.1373.873" timestamp="1577197948829" />
+    <state width="1327" height="272" key="GridCell.Tab.2.bottom" timestamp="1577197948830">
+      <screen x="67" y="27" width="1373" height="873" />
+    </state>
+    <state width="1327" height="272" key="GridCell.Tab.2.bottom/67.27.1373.873@67.27.1373.873" timestamp="1577197948830" />
+    <state width="1327" height="272" key="GridCell.Tab.2.center" timestamp="1577197948830">
+      <screen x="67" y="27" width="1373" height="873" />
+    </state>
+    <state width="1327" height="272" key="GridCell.Tab.2.center/67.27.1373.873@67.27.1373.873" timestamp="1577197948830" />
+    <state width="1327" height="272" key="GridCell.Tab.2.left" timestamp="1577197948829">
+      <screen x="67" y="27" width="1373" height="873" />
+    </state>
+    <state width="1327" height="272" key="GridCell.Tab.2.left/67.27.1373.873@67.27.1373.873" timestamp="1577197948829" />
+    <state width="1327" height="272" key="GridCell.Tab.2.right" timestamp="1577197948830">
+      <screen x="67" y="27" width="1373" height="873" />
+    </state>
+    <state width="1327" height="272" key="GridCell.Tab.2.right/67.27.1373.873@67.27.1373.873" timestamp="1577197948830" />
+    <state width="1327" height="272" key="GridCell.Tab.3.bottom" timestamp="1577197948831">
+      <screen x="67" y="27" width="1373" height="873" />
+    </state>
+    <state width="1327" height="272" key="GridCell.Tab.3.bottom/67.27.1373.873@67.27.1373.873" timestamp="1577197948831" />
+    <state width="1327" height="272" key="GridCell.Tab.3.center" timestamp="1577197948831">
+      <screen x="67" y="27" width="1373" height="873" />
+    </state>
+    <state width="1327" height="272" key="GridCell.Tab.3.center/67.27.1373.873@67.27.1373.873" timestamp="1577197948831" />
+    <state width="1327" height="272" key="GridCell.Tab.3.left" timestamp="1577197948830">
+      <screen x="67" y="27" width="1373" height="873" />
+    </state>
+    <state width="1327" height="272" key="GridCell.Tab.3.left/67.27.1373.873@67.27.1373.873" timestamp="1577197948830" />
+    <state width="1327" height="272" key="GridCell.Tab.3.right" timestamp="1577197948831">
+      <screen x="67" y="27" width="1373" height="873" />
+    </state>
+    <state width="1327" height="272" key="GridCell.Tab.3.right/67.27.1373.873@67.27.1373.873" timestamp="1577197948831" />
+    <state x="409" y="291" key="com.intellij.ide.util.TipDialog" timestamp="1577203871325">
+      <screen x="67" y="27" width="1373" height="873" />
+    </state>
+    <state x="409" y="291" key="com.intellij.ide.util.TipDialog/67.27.1373.873@67.27.1373.873" timestamp="1577203871325" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>frontend</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
